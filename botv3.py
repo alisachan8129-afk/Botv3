@@ -31,7 +31,7 @@ import api.data  as _data
 
 logging.basicConfig(level=logging.WARNING)
 
-BOT_TOKEN      = "" #token
+BOT_TOKEN      = "8787030321:AAHiOJsh0s3escHhuKPr5-K2W78ORh9uJ5c" 
 ROOT_ADMIN_IDS = [5188362948]
 GROUP_LINK     = "https://t.me/MatrixAutoXchat"
 
